@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-30-2018, 04:01:13 PM
+    Author     : Admin126
+*/
+
+.container{
+  
+    
+}
+.jumbotron{
+    
+    font-family: 'Indie Flower',sans-serif;
+    text-align: center;
+    font-size: 115%;
+    color:#2e6da4;
+    text-height:text-size;  
+    
+}
